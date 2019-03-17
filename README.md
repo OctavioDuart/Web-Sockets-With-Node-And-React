@@ -10,4 +10,5 @@ e o cliente constantemente pega a resposta obtida pelo servidor e exibe as infor
 # Referências :
 
 https://www.valentinog.com/blog/socket-io-node-js-react/
+
 https://www.youtube.com/watch?v=qZUDuBcbJ9A
