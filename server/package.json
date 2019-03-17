@@ -1,0 +1,14 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "A socket application with NodeJS and ReactJS",
+  "main": "app.js",
+  "author": "Octávio Duarte",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
