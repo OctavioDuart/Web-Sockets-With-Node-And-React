@@ -3,7 +3,7 @@
 
 # Aplicação com NodeJS e ReactJS 
 
-A aplicação se baseia na comunicação entre cliente e servidor com o uso de WebSocket. O servidor requisita a API da DarkSky
+A aplicação se baseia na comunicação entre cliente e servidor com o uso de Socket,IO. O servidor requisita a API da DarkSky
 e o cliente constantemente pega a resposta obtida pelo servidor e exibe as informações no navegador .
 
 
@@ -12,3 +12,5 @@ e o cliente constantemente pega a resposta obtida pelo servidor e exibe as infor
 https://www.valentinog.com/blog/socket-io-node-js-react/
 
 https://www.youtube.com/watch?v=qZUDuBcbJ9A
+
+https://socket.io/docs/
